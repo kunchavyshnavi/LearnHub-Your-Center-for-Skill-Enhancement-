@@ -35,6 +35,21 @@ Welcome to **LearnHub**, your one-stop platform for personalized, interactive, a
 ✅ Mobile Responsive UI  
 
 ---
+Let me know if you'd like the README tailored for React, Vue, or any specific backend/database stack you’re using.
+## 📌 Contribution Guidelines
+
+We welcome contributions to **LearnHub – Your Center for Skill Enhancement**! 🚀
+
+Follow the steps below to contribute:
+
+1. **Fork the repository**  
+   Click the `Fork` button on the top-right of the repository page on GitHub to create your own copy of this repo.
+
+2. **Clone your fork**
+   ```bash
+   git clone https://github.com/your-kunchavyshnavi/learnhub-your_center_for_skill_enhancement.git
+   cd learnhub
+
 
 ## 🛠️ Setup & Installation
 
@@ -55,12 +70,5 @@ cd ../client
 # If React:
 npm install
 npm start
-
-
-## 📁 Project Structure 
-
----
-
-Let me know if you'd like the README tailored for React, Vue, or any specific backend/database stack you’re using.
 
 
